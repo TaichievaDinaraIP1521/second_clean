@@ -17,7 +17,7 @@ body{
     padding: 22px 36px;
     background-color: #C4C4C4;
     max-width: 1400px;
-    background-image: url("/img/Rectangle\ 3.jpg");
+    background-image: url("img/back1.png");
     background-repeat: no-repeat;
 }
 .menu{
@@ -113,7 +113,7 @@ letter-spacing: 3px;
     padding: 0 36px;
     background-color: #C4C4C4;
     max-width: 1400px;
-    background-image: url("/img/back2.png");
+    background-image: url("img/back2.png");
     background-repeat: no-repeat;
     margin-top: -50px;
 }
@@ -201,7 +201,7 @@ letter-spacing: 3px;
     padding: 0 36px;
     background-color: #C4C4C4;
     max-width: 1400px;
-    background-image: url("/img/back3.png");
+    background-image: url("img/back3.png");
     background-repeat: no-repeat;
     margin-top: -50px;
 }
